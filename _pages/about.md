@@ -1,0 +1,45 @@
+---
+layout: about
+title: about
+permalink: /
+subtitle: EE Undergraduate, <a href='https://www.ntu.edu.tw/english/'>National Taiwan University</a>
+
+profile:
+  align: right
+  image: # put a photo at assets/img/prof_pic.jpg and write prof_pic.jpg here
+  image_circular: false # crops the image to make it circular
+  more_info: >
+    <p>Taipei &amp; Hsinchu, Taiwan</p>
+
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
+
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: false
+---
+
+I am an EE undergraduate at [National Taiwan University](https://www.ntu.edu.tw/english/), researching **speech, multimodal AI, and GUI agents**. I hope to pursue graduate research in machine learning.
+
+**Interests:** Speech & audio, AI safety, AI agents, Computer vision
+
+#### Research experience
+
+- **Undergraduate Researcher**, [Speech Processing and Machine Learning Lab](https://labspotlight.ntu.edu.tw/en/labs/cmta2d7du002ka9http80ay44), NTU — advised by [Prof. Hung-Yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php) <span class="text-muted">(July 2025–Present)</span><br>
+  Training-free audio-model interventions and full-duplex speech safety.
+- **Visiting Researcher**, [Natural Language Processing Lab](https://web.cs.ucla.edu/~kwchang/members/), UCLA — advised by [Prof. Kai-Wei Chang](https://web.cs.ucla.edu/~kwchang/) <span class="text-muted">(July 2026–Present)</span><br>
+  GUI agents for multi-step browser tasks and deep research.
+- **Undergraduate Researcher**, [Vision and Learning Lab](https://vllab.ee.ntu.edu.tw/), NTU — advised by [Prof. Yu-Chiang Frank Wang](https://vllab.ee.ntu.edu.tw/ycwang.html) <span class="text-muted">(Sep 2025–June 2026)</span><br>
+  Vision-language-action models for long-horizon embodied planning.
+
+#### Internships
+
+- **Video Deep Learning Product Developer Intern**, [Synology Inc.](https://www.synology.com/) <span class="text-muted">(Nov 2026–Present)</span>
+- **AI Research Intern**, Open Cloud Infrastructure Software Center, [ASUSTeK Computer Inc.](https://www.asus.com/) <span class="text-muted">(May 2026–Nov 2026)</span><br>
+  Evaluation, safety, and alignment for speech models and LLM agents.
+- **Student Researcher**, [Institute of Information Science, Academia Sinica](https://www.iis.sinica.edu.tw/en/) — PI: [Prof. Yennun Huang](https://homepage.citi.sinica.edu.tw/pages/yennunhuang/vita_en.html) <span class="text-muted">(July 2024–Aug 2024)</span><br>
+  Developed attack and benign audit-log pipelines for AI safety and intrusion detection research.

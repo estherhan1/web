@@ -1,0 +1,99 @@
+cv:
+  name: Yu-Han Huang
+  label: EE Undergraduate, National Taiwan University
+  email: estherhan5853@gmail.com
+  location: Taipei & Hsinchu, Taiwan
+  image: ""
+  summary: Undergraduate researcher in speech, multimodal AI, and GUI agents.
+
+  social_networks:
+    - network: GitHub
+      username: estherhan1
+    - network: LinkedIn
+      username: estherhan5853
+
+  sections:
+    Education:
+      - institution: National Taiwan University
+        location: Taipei, Taiwan
+        url: https://www.ntu.edu.tw/english/
+        area: Electrical Engineering
+        studyType: B.S.
+        courses: "Machine Learning, Deep Learning for Computer Vision, Deep Reinforcement Learning"
+
+    Experience:
+      - company: Speech Processing and Machine Learning Lab, NTU
+        position: Undergraduate Researcher
+        location: Taipei, Taiwan
+        url: https://labspotlight.ntu.edu.tw/en/labs/cmta2d7du002ka9http80ay44
+        start_date: 2025-07
+        end_date: present
+        summary: Advised by Prof. Hung-Yi Lee. Training-free audio-model interventions and full-duplex speech safety.
+
+      - company: Natural Language Processing Lab, UCLA
+        position: Visiting Researcher
+        location: Los Angeles, CA, US
+        url: https://web.cs.ucla.edu/~kwchang/members/
+        start_date: 2026-07
+        end_date: present
+        summary: Advised by Prof. Kai-Wei Chang. GUI agents for multi-step browser tasks and deep research.
+
+      - company: Vision and Learning Lab, NTU
+        position: Undergraduate Researcher
+        location: Taipei, Taiwan
+        url: https://vllab.ee.ntu.edu.tw/
+        start_date: 2025-09
+        end_date: 2026-06
+        summary: Advised by Prof. Yu-Chiang Frank Wang. Vision-language-action models for long-horizon embodied planning.
+
+      - company: Synology Inc.
+        position: Video Deep Learning Product Developer Intern
+        url: https://www.synology.com/
+        start_date: 2026-11
+        end_date: present
+
+      - company: Open Cloud Infrastructure Software Center, ASUSTeK Computer Inc.
+        position: AI Research Intern
+        url: https://www.asus.com/
+        start_date: 2026-05
+        end_date: 2026-11
+        summary: Evaluation, safety, and alignment for speech models and LLM agents.
+
+      - company: Institute of Information Science, Academia Sinica
+        position: Student Researcher
+        url: https://www.iis.sinica.edu.tw/en/
+        start_date: 2024-07
+        end_date: 2024-08
+        summary: PI Prof. Yennun Huang. Developed attack and benign audit-log pipelines for AI safety and intrusion detection research.
+
+    Teaching:
+      - bullet: "**Teaching Assistant, Deep Learning for Human Language Processing**, National Taiwan University (Spring 2026). Co-organized the Teaching Monster Challenge and evaluated AI teaching videos ([related paper](https://arxiv.org/abs/2608.08852))."
+      - bullet: "**Teaching Assistant, [Machine Learning](https://speech.ee.ntu.edu.tw/~hylee/ml/2026-spring.php)**, National Taiwan University (Spring 2026). Designed the model-merging assignment."
+
+    Awards:
+      - title: AI Talent+ Overseas Research Scholarship
+        date: 2026-07
+        awarder: National Taiwan University
+        summary: Research visit at UCLA with Prof. Kai-Wei Chang.
+
+      - title: MakeNTU — 1st Place & Enterprise Award
+        date: 2025-05
+        awarder: MakeNTU
+        summary: AI Driving Coach with live driver analysis and voice feedback.
+
+    Leadership:
+      - bullet: "**General Coordinator, NTUEE Night** (March 2026). Led 200+ performers and staff for an audience of 800+."
+      - bullet: "**Director of Public Relations, NTUEE Student Association** (Fall 2025 to Spring 2026). Managed vendor outreach and partnerships."
+      - bullet: "**Vice Captain, NTUEE Women's Basketball** (Fall 2024)."
+
+    Skills:
+      - name: Programming & frameworks
+        icon: fa-solid fa-code
+        keywords: "Python, C/C++, Go, PyTorch, RISC-V, MATLAB, Raspberry Pi, Git, HTML/CSS, Docker"
+
+    Languages:
+      - name: Mandarin Chinese
+        summary: "Native"
+
+      - name: English
+        summary: "TOEFL iBT 5.5/6 (110/120, Oct 2026), CEFR C1"

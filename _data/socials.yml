@@ -1,0 +1,6 @@
+# Social links shown on the about page and in search. See _data/socials.yml in al-folio for every supported key.
+cv_pdf: /CV.pdf # path to your CV PDF file
+email: estherhan5853@gmail.com # your email address
+github_username: estherhan1 # your GitHub user name
+linkedin_username: estherhan5853 # your LinkedIn user name
+scholar_userid: SQB3TgwAAAAJ # your Google Scholar ID
