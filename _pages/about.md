@@ -50,7 +50,7 @@ My research focuses on **speech, multimodal AI, and GUI agents**, and I hope to 
 
 ## Education
 
-- **B.S. in Electrical Engineering**, [National Taiwan University](https://www.ntu.edu.tw/english/)
+- **B.S. in Electrical Engineering**, [National Taiwan University](https://www.ntu.edu.tw/english/) <span class="text-muted">(2023–2027, expected)</span>
 
 ## Research experience
 
