@@ -29,6 +29,13 @@ latest_posts:
       width: 20% !important;
     }
   }
+  /* capitalize the template's lowercase "news" / "selected publications" headings */
+  article h2 > a {
+    display: inline-block;
+  }
+  article h2 > a::first-letter {
+    text-transform: uppercase;
+  }
 </style>
 
 My research focuses on **speech, multimodal AI, and GUI agents**, and I hope to pursue graduate research in machine learning.
