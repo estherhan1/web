@@ -19,6 +19,7 @@
 | CV 頁面 | `_data/cv.yml` |
 | CV PDF | 直接換掉根目錄的 `CV.pdf` |
 | 社群連結（Email、GitHub、LinkedIn、Scholar） | `_data/socials.yml` |
+| 主題色（連結、徽章；目前是照片的藍） | `_sass/_variables.scss` 的 `$purple-color`（淺色模式）和 `$cyan-color`（深色模式）。`_sass/_themes.scss` 是為了讓這個設定生效而複製的，不用改 |
 | 導覽列順序 | 各 `_pages/*.md` 開頭的 `nav_order:` |
 
 ### papers.bib 常用欄位
