@@ -1,7 +1,9 @@
 ---
+title: Drifting Q-Learning with Distributional Behavior Cloning
+description: Offline RL method tested against 13 baselines on 10 OGBench tasks.
+course: Deep Reinforcement Learning
+when: Spring 2026
 layout: page
-title: Drifting Q-Learning
-description: Drifting Q-Learning with Distributional Behavior Cloning — offline RL tested against 13 baselines on 10 OGBench tasks.
 img: assets/img/projects/driftql.webp
 importance: 1
 category: course projects

@@ -64,6 +64,36 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
+    <!-- Course projects: same row layout as publications -->
+    {% if page.course_projects %}
+      <h2>
+        <a href="{{ '/projects/' | relative_url }}" style="color: inherit">course projects</a>
+      </h2>
+      <div class="publications">
+        <ol class="bibliography">
+          {% assign sorted_projects = site.projects | sort: 'importance' %}
+          {% for project in sorted_projects %}
+            <li>
+              <div class="row">
+                <div class="col col-sm-2 abbr">
+                  <abbr class="badge rounded w-100">Course</abbr>
+                  {% include figure.liquid loading="eager" path=project.img sizes="200px" class="preview z-depth-1 rounded" zoomable=true %}
+                </div>
+                <div class="col-sm-8">
+                  <div class="title">
+                    <a href="{{ project.url | relative_url }}">{{ project.title }}</a>
+                  </div>
+                  <div class="author">{{ project.course }}</div>
+                  <div class="periodical">{{ project.description }}</div>
+                  <div class="periodical"><em>{{ project.when }}</em></div>
+                </div>
+              </div>
+            </li>
+          {% endfor %}
+        </ol>
+      </div>
+    {% endif %}
+
     <!-- Social -->
     {% if page.social %}
       <div class="social">
