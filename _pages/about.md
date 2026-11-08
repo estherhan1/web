@@ -28,7 +28,12 @@ latest_posts:
   @media (min-width: 576px) {
     .profile {
       width: 20% !important;
+      /* pull the photo up so its top lines up with the name */
+      margin-top: -6.5rem;
     }
+  }
+  .post-header .post-title {
+    font-size: 3.25rem;
   }
   /* capitalize the template's lowercase "news" / "selected publications" headings */
   article h2 > a {
