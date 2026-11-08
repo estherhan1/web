@@ -12,6 +12,7 @@
 | 首頁自我介紹、研究經歷、實習 | `_pages/about.md` |
 | 大頭照 | 把照片放到 `assets/img/prof_pic.jpg`，再把 `_pages/about.md` 裡的 `image:` 改成 `prof_pic.jpg` |
 | News | `_news/` 裡一則一個檔案（照 `announcement_4.md` 的格式複製一份，改 `date:` 和內容） |
+| News 日期顯示格式（目前 `Nov 2026`） | `_includes/news.liquid` 裡的 `date: '%b %Y'`（這是覆蓋 al-folio 模板的本地版本） |
 | 論文 | `_bibliography/papers.bib`（BibTeX） |
 | 論文縮圖 | `assets/img/publication_preview/`，在 bib 寫 `preview = {檔名}` |
 | 課程專案 | `_projects/` 裡一個專案一個檔案，圖片放 `assets/img/projects/` |
