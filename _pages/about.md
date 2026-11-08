@@ -6,7 +6,7 @@ subtitle: EE Undergraduate, <a href='https://www.ntu.edu.tw/english/'>National T
 
 profile:
   align: right
-  image: # put a photo at assets/img/prof_pic.jpg and write prof_pic.jpg here
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Taipei &amp; Hsinchu, Taiwan</p>
