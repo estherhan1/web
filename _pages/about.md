@@ -23,11 +23,23 @@ latest_posts:
   enabled: false
 ---
 
-I am an EE undergraduate at [National Taiwan University](https://www.ntu.edu.tw/english/), researching **speech, multimodal AI, and GUI agents**. I hope to pursue graduate research in machine learning.
+<style>
+  @media (min-width: 576px) {
+    .profile {
+      width: 20% !important;
+    }
+  }
+</style>
+
+My research focuses on **speech, multimodal AI, and GUI agents**, and I hope to pursue graduate research in machine learning.
 
 **Interests:** Speech & audio, AI safety, AI agents, Computer vision
 
-#### Research experience
+## Education
+
+- **B.S. in Electrical Engineering**, [National Taiwan University](https://www.ntu.edu.tw/english/)
+
+## Research experience
 
 - **Undergraduate Researcher**, [Speech Processing and Machine Learning Lab](https://labspotlight.ntu.edu.tw/en/labs/cmta2d7du002ka9http80ay44), NTU — advised by [Prof. Hung-Yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php) <span class="text-muted">(July 2025–Present)</span><br>
   Training-free audio-model interventions and full-duplex speech safety.
@@ -36,7 +48,7 @@ I am an EE undergraduate at [National Taiwan University](https://www.ntu.edu.tw/
 - **Undergraduate Researcher**, [Vision and Learning Lab](https://vllab.ee.ntu.edu.tw/), NTU — advised by [Prof. Yu-Chiang Frank Wang](https://vllab.ee.ntu.edu.tw/ycwang.html) <span class="text-muted">(Sep 2025–June 2026)</span><br>
   Vision-language-action models for long-horizon embodied planning.
 
-#### Internships
+## Internships
 
 - **Video Deep Learning Product Developer Intern**, [Synology Inc.](https://www.synology.com/) <span class="text-muted">(Nov 2026–Present)</span>
 - **AI Research Intern**, Open Cloud Infrastructure Software Center, [ASUSTeK Computer Inc.](https://www.asus.com/) <span class="text-muted">(May 2026–Nov 2026)</span><br>
