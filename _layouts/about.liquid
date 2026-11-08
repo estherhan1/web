@@ -85,6 +85,7 @@ layout: default
                   </div>
                   <div class="author">{{ project.course }}</div>
                   <div class="periodical">{{ project.description }}</div>
+                  {% if project.award %}<div class="periodical"><strong>{{ project.award }}</strong></div>{% endif %}
                   <div class="periodical"><em>{{ project.when }}</em></div>
                 </div>
               </div>

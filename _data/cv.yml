@@ -83,6 +83,17 @@ cv:
         awarder: MakeNTU
         summary: AI Driving Coach with live driver analysis and voice feedback.
 
+    Projects:
+      - name: Drifting Q-Learning with Distributional Behavior Cloning
+        summary: "Course project, Deep Reinforcement Learning. Offline RL method tested against 13 baselines on 10 OGBench tasks."
+        date: 2026-06
+        highlights:
+          - "Oral presentation, First National Taiwan University Deep Reinforcement Learning Course Mini-Conference 2026"
+
+      - name: "Detection-Guided Layer Extraction: Qwen-Image-Layered Decomposition with DocLayout-YOLO Refinement"
+        summary: "Course project, Deep Learning for Computer Vision. Two-stage RGBA layer generation and boundary refinement."
+        date: 2025-12
+
     Leadership:
       - bullet: "**General Coordinator, NTUEE Night** (March 2026). Led 200+ performers and staff for an audience of 800+."
       - bullet: "**Director of Public Relations, NTUEE Student Association** (Fall 2025 to Spring 2026). Managed vendor outreach and partnerships."
