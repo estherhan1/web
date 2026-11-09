@@ -47,7 +47,7 @@ latest_posts:
   }
 </style>
 
-I'm interested in speech, multimodal AI, and AI agents. My goal is to build models that hear how something is said, not just what is said, and agents that reliably complete real-world tasks.
+I'm interested in speech and language technologies. My goal is to build reliable voice agents for people with accessibility needs, especially older adults who speak low-resource dialects.
 
 
 ## Education
