@@ -1,0 +1,8 @@
+# Homepage "Awards" section (newest first). Markdown allowed in title/detail.
+- title: "**AI Talent+ Overseas Research Scholarship**, National Taiwan University"
+  when: "July 2026–Aug 2026"
+  detail: "Research visit to the Natural Language Processing Lab, UCLA (Prof. Kai-Wei Chang)."
+
+- title: "**MakeNTU Hackathon, 1st Place & Enterprise Award**, Taipei, Taiwan"
+  when: "May 2025"
+  detail: "AI Driving Coach: live driver analysis, voice feedback, and data visualization with WebSocket streaming and the Google Gemini API."

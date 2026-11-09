@@ -13,6 +13,7 @@ profile:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 course_projects: true # lists everything in _projects/ below the publications
+awards: true # Awards section at the bottom, from _data/awards.yml
 social: true # includes social icons at the bottom of the page
 
 announcements:
