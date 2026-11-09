@@ -53,6 +53,9 @@ My research focuses on **speech, multimodal AI, and GUI agents**, and I hope to 
 ## Education
 
 - **B.S. in Electrical Engineering**, [National Taiwan University](https://www.ntu.edu.tw/english/) <span class="text-muted">(2023–2027, expected)</span>
+  - **Selected Coursework:** Machine Learning, Deep Learning for Computer Vision, Deep Reinforcement Learning
+  - **Teaching Assistant:** Deep Learning for Human Language Processing (CommE5054) and Machine Learning (EE5184), [Prof. Hung-Yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php) <span class="text-muted">(Spring 2026)</span> — co-organized the First Teaching Monster Challenge and designed the model-merging assignment
+  - **Extracurricular:** General Coordinator, NTUEE Night <span class="text-muted">(2026)</span>; Director of Public Relations, NTUEE Student Association <span class="text-muted">(2025–2026)</span>; Vice Captain, NTUEE Women's Basketball Team <span class="text-muted">(2024)</span>
 
 ## Research experience
 
