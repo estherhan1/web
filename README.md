@@ -16,8 +16,8 @@
 | 論文 | `_bibliography/papers.bib`（BibTeX） |
 | 論文縮圖 | `assets/img/publication_preview/`，在 bib 寫 `preview = {檔名}` |
 | 課程專案 | `_projects/` 裡一個專案一個檔案，圖片放 `assets/img/projects/` |
-| CV 頁面 | `_data/cv.yml` |
-| CV PDF | 直接換掉根目錄的 `CV.pdf`（導覽列的 cv 會直接開這個 PDF，設定在 `_pages/cv.md` 的 `nav_link:`） |
+| CV 頁面 | 已刪除，`/cv/` 會直接轉到 PDF |
+| CV PDF | 直接換掉根目錄的 `CV.pdf`（導覽列的 cv 會直接開這個 PDF，設定在 `_pages/cv.html` 的 `nav_link:`） |
 | 社群連結（Email、GitHub、LinkedIn、Scholar） | `_data/socials.yml` |
 | 主題色（連結、徽章；目前是照片的藍） | `_sass/_variables.scss` 的 `$purple-color`（淺色模式）和 `$cyan-color`（深色模式）。`_sass/_themes.scss` 是為了讓這個設定生效而複製的，不用改 |
 | 導覽列順序 | 各 `_pages/*.md` 開頭的 `nav_order:` |
@@ -41,10 +41,6 @@
 ```
 
 你的名字會自動加底線，因為 `_config.yml` 裡的 `scholar.last_name` / `first_name` 設成了 Huang / Yu-Han。
-
-### cv.yml 注意事項
-
-只有 `Experience`、`Volunteer`、`Education`、`Awards`、`Skills`、`Languages`、`Projects`、`Publications` 這些**固定的 section 名稱**會有特殊排版。其他自訂名稱（例如 `Teaching`、`Leadership`）要用 `- bullet: "..."` 的格式，不然會顯示成空白。
 
 ## 本機預覽
 

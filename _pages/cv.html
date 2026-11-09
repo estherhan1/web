@@ -1,0 +1,15 @@
+---
+# No CV page any more: this file only keeps the "cv" nav button,
+# which opens the PDF directly (see nav_link in _includes/header.liquid).
+# Visiting /web/cv/ redirects to the PDF. To update the CV, just replace /CV.pdf.
+layout: null
+permalink: /cv/
+title: CV
+nav: true
+nav_order: 4
+nav_link: /CV.pdf
+sitemap: false
+---
+<!doctype html>
+<html><head><meta charset="utf-8"><meta http-equiv="refresh" content="0; url={{ '/CV.pdf' | relative_url }}"><link rel="canonical" href="{{ '/CV.pdf' | relative_url }}"><title>CV</title></head>
+<body><a href="{{ '/CV.pdf' | relative_url }}">CV (PDF)</a></body></html>
