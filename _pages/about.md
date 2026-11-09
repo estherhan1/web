@@ -47,7 +47,7 @@ latest_posts:
   }
 </style>
 
-I'm interested in speech and language technologies. My goal is to build reliable voice agents for people with accessibility needs, especially older adults who speak low-resource dialects.
+I'm interested in speech and language technologies, computer vision, and AI agents, including GUI and embodied agents. My goal is to build reliable voice agents for people with accessibility needs, especially older adults who speak low-resource dialects.
 
 
 ## Education
