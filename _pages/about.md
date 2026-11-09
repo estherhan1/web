@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Taipei &amp; Hsinchu, Taiwan</p>
+    <p>Taipei, Taiwan</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 course_projects: true # lists everything in _projects/ below the publications
