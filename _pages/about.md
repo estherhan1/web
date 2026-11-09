@@ -15,6 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 course_projects: true # lists everything in _projects/ below the publications
 awards: true # Awards section at the bottom, from _data/awards.yml
 skills: true # Skills section below Awards, from _data/skills.yml
+leadership: true # Leadership section at the end, from _data/leadership.yml
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -54,8 +55,7 @@ My research focuses on **speech, multimodal AI, and GUI agents**, and I hope to 
 
 - **B.S. in Electrical Engineering**, [National Taiwan University](https://www.ntu.edu.tw/english/) <span class="text-muted">(2023–2027, expected)</span>
   - **Selected Coursework:** Machine Learning, Deep Learning for Computer Vision, Deep Reinforcement Learning
-  - **Teaching Assistant:** Deep Learning for Human Language Processing (CommE5054) and Machine Learning (EE5184), [Prof. Hung-Yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php) <span class="text-muted">(Spring 2026)</span> — co-organized the First Teaching Monster Challenge and designed the model-merging assignment
-  - **Extracurricular:** General Coordinator, NTUEE Night <span class="text-muted">(2026)</span>; Director of Public Relations, NTUEE Student Association <span class="text-muted">(2025–2026)</span>; Vice Captain, NTUEE Women's Basketball Team <span class="text-muted">(2024)</span>
+  - **Teaching Assistant:** Deep Learning for Human Language Processing (CommE5054) and Machine Learning (EE5184)
 
 ## Research experience
 

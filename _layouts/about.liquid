@@ -125,6 +125,19 @@ layout: default
       </ul>
     {% endif %}
 
+    <!-- Leadership: from _data/leadership.yml -->
+    {% if page.leadership and site.data.leadership %}
+      <h2>Leadership</h2>
+      <ul>
+        {% for item in site.data.leadership %}
+          <li>
+            {{ item.title | markdownify | remove: '<p>' | remove: '</p>' | strip }}
+            <span class="text-muted">({{ item.when }})</span>
+          </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+
     <!-- Social -->
     {% if page.social %}
       <div class="social">
