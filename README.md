@@ -35,6 +35,7 @@
   arxiv     = {2607.11801},          % 產生 arXiv 按鈕
   doi       = {10.21437/...},         % 產生 DOI 按鈕
   website   = {https://...},          % 產生 Website 按鈕
+  code      = {https://github.com/...}, % 產生 Code 按鈕
   preview   = {iaan.webp},            % 縮圖
   selected  = {true}                  % 顯示在首頁 selected publications
 }
