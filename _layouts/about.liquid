@@ -87,6 +87,11 @@ layout: default
                   <div class="periodical">{{ project.description }}</div>
                   {% if project.award %}<div class="periodical"><strong>{{ project.award }}</strong></div>{% endif %}
                   <div class="periodical"><em>{{ project.when }}</em></div>
+                  {% if project.pdf %}
+                    <div class="links">
+                      <a href="{{ project.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener">PDF</a>
+                    </div>
+                  {% endif %}
                 </div>
               </div>
             </li>

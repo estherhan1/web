@@ -3,6 +3,7 @@ title: "Detection-Guided Layer Extraction: Qwen-Image-Layered Decomposition with
 description: Two-stage RGBA layer generation and boundary refinement.
 course: Deep Learning for Computer Vision
 when: Fall 2025
+pdf: https://drive.google.com/file/d/1toFsB2Q8uLGELMnFSWl871iYM4ntsnfM/view?usp=sharing
 layout: page
 img: assets/img/projects/layer-extraction.webp
 importance: 2
@@ -12,6 +13,8 @@ category: course projects
 **Course project, Fall 2025, Deep Learning for Computer Vision**
 
 Detection-Guided Layer Extraction: Qwen-Image-Layered decomposition with DocLayout-YOLO refinement. A two-stage pipeline for RGBA layer generation followed by boundary refinement.
+
+<a href="{{ page.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener">PDF</a>
 
 **Skills:** Computer Vision, Image Decomposition, Qwen-Image-Layered
 

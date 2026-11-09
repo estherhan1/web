@@ -15,7 +15,7 @@
 | News 日期顯示格式（目前 `Nov 2026`） | `_includes/news.liquid` 裡的 `date: '%b %Y'`（這是覆蓋 al-folio 模板的本地版本） |
 | 論文 | `_bibliography/papers.bib`（BibTeX） |
 | 論文縮圖 | `assets/img/publication_preview/`，在 bib 寫 `preview = {檔名}` |
-| 課程專案 | `_projects/` 裡一個專案一個檔案，圖片放 `assets/img/projects/` |
+| 課程專案 | `_projects/` 裡一個專案一個檔案，圖片放 `assets/img/projects/`，`pdf:` 欄位是 PDF 按鈕的連結 |
 | CV 頁面 | 已刪除，`/cv/` 會直接轉到 PDF |
 | CV PDF | 直接換掉根目錄的 `CV.pdf`（導覽列的 cv 會直接開這個 PDF，設定在 `_pages/cv.html` 的 `nav_link:`） |
 | 社群連結（Email、GitHub、LinkedIn、Scholar） | `_data/socials.yml` |
