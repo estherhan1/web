@@ -103,15 +103,14 @@ layout: default
     <!-- Awards: from _data/awards.yml -->
     {% if page.awards and site.data.awards %}
       <h2>Awards</h2>
-      <ul>
-        {% for a in site.data.awards %}
-          <li>
-            {{ a.title | markdownify | remove: '<p>' | remove: '</p>' | strip }}
-            <span class="text-muted">({{ a.when }})</span>
-            {% if a.detail %}<br>{{ a.detail | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% endif %}
-          </li>
-        {% endfor %}
-      </ul>
+      {% for a in site.data.awards %}
+        <p class="mb-2">
+          {{ a.title | markdownify | remove: '<p>' | remove: '</p>' | strip }}
+          <span class="text-muted">({{ a.when }})</span>
+          {% if a.detail %}<br>{{ a.detail | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% endif %}
+        </p>
+      {% endfor %}
+      <div class="mb-4"></div>
     {% endif %}
 
     <!-- Skills: from _data/skills.yml -->
