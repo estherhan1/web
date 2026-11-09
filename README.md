@@ -17,7 +17,7 @@
 | 論文縮圖 | `assets/img/publication_preview/`，在 bib 寫 `preview = {檔名}` |
 | 課程專案 | `_projects/` 裡一個專案一個檔案，圖片放 `assets/img/projects/` |
 | CV 頁面 | `_data/cv.yml` |
-| CV PDF | 直接換掉根目錄的 `CV.pdf` |
+| CV PDF | 直接換掉根目錄的 `CV.pdf`（導覽列的 cv 會直接開這個 PDF，設定在 `_pages/cv.md` 的 `nav_link:`） |
 | 社群連結（Email、GitHub、LinkedIn、Scholar） | `_data/socials.yml` |
 | 主題色（連結、徽章；目前是照片的藍） | `_sass/_variables.scss` 的 `$purple-color`（淺色模式）和 `$cyan-color`（深色模式）。`_sass/_themes.scss` 是為了讓這個設定生效而複製的，不用改 |
 | 導覽列順序 | 各 `_pages/*.md` 開頭的 `nav_order:` |
