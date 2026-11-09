@@ -47,7 +47,9 @@ latest_posts:
   }
 </style>
 
-My research focuses on **speech, multimodal AI, and GUI agents**, and I hope to pursue graduate research in machine learning.
+I study how to make large audio-language models **listen to how something is said, not just what is said**. With [Prof. Hung-Yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php), my first-author SLT 2026 paper, [**IAAN**](https://estherhan1.github.io/IAAN/), identifies and amplifies acoustic neurons inside the audio encoder, improving paralinguistic understanding without any training. I also work on steering hidden states for audio reasoning and on the safety of full-duplex spoken language models.
+
+Beyond speech, I build realistic tasks that require **GUI agents** to combine deep research with multi-step browser interaction at UCLA with [Prof. Kai-Wei Chang](https://web.cs.ucla.edu/~kwchang/), and previously studied **vision-language-action models** for long-horizon embodied planning with [Prof. Yu-Chiang Frank Wang](https://vllab.ee.ntu.edu.tw/ycwang.html).
 
 **Interests:** Speech & audio, AI safety, AI agents, Computer vision
 
