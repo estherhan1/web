@@ -55,7 +55,7 @@ My research focuses on **speech, multimodal AI, and GUI agents**, and I hope to 
 
 - **B.S. in Electrical Engineering**, [National Taiwan University](https://www.ntu.edu.tw/english/) <span class="text-muted">(2023–2027, expected)</span>
   - **Selected Coursework:** Machine Learning, Deep Learning for Computer Vision, Deep Reinforcement Learning
-  - **Teaching Assistant:** Deep Learning for Human Language Processing (CommE5054) and Machine Learning (EE5184)
+  - **Teaching Assistant:** Deep Learning for Human Language Processing and Machine Learning
 
 ## Research experience
 
