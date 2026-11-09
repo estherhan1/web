@@ -114,6 +114,16 @@ layout: default
       </ul>
     {% endif %}
 
+    <!-- Skills: from _data/skills.yml -->
+    {% if page.skills and site.data.skills %}
+      <h2>Skills</h2>
+      <ul>
+        {% for sk in site.data.skills %}
+          <li><strong>{{ sk.name }}:</strong> {{ sk.items }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+
     <!-- Social -->
     {% if page.social %}
       <div class="social">

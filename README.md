@@ -14,7 +14,7 @@
 | News | `_news/` 裡一則一個檔案（照 `announcement_4.md` 的格式複製一份，改 `date:` 和內容） |
 | News 日期顯示格式（目前 `Nov 2026`） | `_includes/news.liquid` 裡的 `date: '%b %Y'`（這是覆蓋 al-folio 模板的本地版本） |
 | 論文 | `_bibliography/papers.bib`（BibTeX） |
-| 首頁最下面的 Awards | `_data/awards.yml` |
+| 首頁最下面的 Awards / Skills | `_data/awards.yml` / `_data/skills.yml` |
 | 論文縮圖 | `assets/img/publication_preview/`，在 bib 寫 `preview = {檔名}` |
 | 課程專案 | `_projects/` 裡一個專案一個檔案，圖片放 `assets/img/projects/`，`pdf:` 欄位是 PDF 按鈕的連結 |
 | CV 頁面 | 已刪除，`/cv/` 會直接轉到 PDF |
