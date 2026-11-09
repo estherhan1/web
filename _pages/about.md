@@ -47,9 +47,8 @@ latest_posts:
   }
 </style>
 
-My goal is to build AI that truly perceives and acts in the real world: models that understand not only **what** is said but **how** it is said, and agents that can reliably carry out complex tasks for people. Toward this, I work on training-free methods that sharpen how audio-language models hear, safety for spoken dialogue models, and GUI agents for multi-step web tasks.
+I'm interested in speech, multimodal AI, and AI agents. My goal is to build models that hear how something is said, not just what is said, and agents that reliably complete real-world tasks.
 
-**Interests:** Speech & audio, AI safety, AI agents, Computer vision
 
 ## Education
 
