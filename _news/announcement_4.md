@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started as a video deep learning product developer intern at [Synology](https://www.synology.com/).
+Started as a research and development intern on the Vision Machine Learning Team at [Synology](https://www.synology.com/).
