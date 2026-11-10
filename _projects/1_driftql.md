@@ -3,7 +3,6 @@ title: Drifting Q-Learning with Distributional Behavior Cloning
 description: Offline RL method tested against 13 baselines on 10 OGBench tasks.
 course: Deep Reinforcement Learning
 when: Spring 2026
-award: Oral presentation, First National Taiwan University Deep Reinforcement Learning Course Mini-Conference 2026
 pdf: https://drive.google.com/file/d/16pxa5cR2FTtLCuD3_rf2gPi8u0C3vfsj/view?usp=sharing
 layout: page
 img: assets/img/projects/driftql.webp
@@ -12,8 +11,6 @@ category: course projects
 ---
 
 **Course project, Spring 2026, Deep Reinforcement Learning**
-
-**Oral presentation**, First National Taiwan University Deep Reinforcement Learning Course Mini-Conference 2026
 
 An offline RL method that combines Q-learning with distributional behavior cloning, evaluated against 13 baselines on 10 OGBench tasks.
 

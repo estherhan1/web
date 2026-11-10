@@ -67,7 +67,8 @@ I'm interested in speech and language technologies, computer vision, and AI agen
 
 ## Internships
 
-- **Research and Development Intern, Vision Machine Learning Team**, [Synology Inc.](https://www.synology.com/) <span class="text-muted">(Nov 2026–Present)</span>
+- **Research and Development Intern, Vision Machine Learning Team**, [Synology Inc.](https://www.synology.com/) <span class="text-muted">(Nov 2026–Present)</span><br>
+  Trained video deep learning models to detect human falls in camera footage for safety monitoring.
 - **AI Research Intern**, Open Cloud Infrastructure Software Center, [ASUSTeK Computer Inc.](https://www.asus.com/) <span class="text-muted">(May 2026–Nov 2026)</span><br>
   Evaluation, safety, and alignment for speech models and LLM agents.
 - **Student Researcher**, [Institute of Information Science, Academia Sinica](https://www.iis.sinica.edu.tw/en/) — PI: [Prof. Yennun Huang](https://homepage.citi.sinica.edu.tw/pages/yennunhuang/vita_en.html) <span class="text-muted">(July 2024–Aug 2024)</span><br>
