@@ -35,6 +35,10 @@ latest_posts:
       margin-top: -6.5rem;
     }
   }
+  .profile .more-info,
+  .profile .more-info p {
+    text-align: center;
+  }
   .post-header .post-title {
     font-size: 3.25rem;
   }
